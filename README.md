@@ -4,7 +4,7 @@
 [![rank](https://make.fun/badge/u-0xb3e689-warning-label-for-humans-one-line-big-laugh-40e31f85/gowther18/u-0xb3e689-warning-label-for-humans-one-line-big-laugh-40e31f85-entry/rank.svg)](https://make.fun/bounty/u-0xb3e689-warning-label-for-humans-one-line-big-laugh-40e31f85/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-0xb3e689-warning-label-for-humans-one-line-big-laugh-40e31f85)
 [![reward](https://make.fun/badge/u-0xb3e689-warning-label-for-humans-one-line-big-laugh-40e31f85/gowther18/u-0xb3e689-warning-label-for-humans-one-line-big-laugh-40e31f85-entry/reward.svg)](https://make.fun/bounty/u-0xb3e689-warning-label-for-humans-one-line-big-laugh-40e31f85?utm_source=github&utm_medium=readme&utm_campaign=u-0xb3e689-warning-label-for-humans-one-line-big-laugh-40e31f85)
 
-A Python program that writes the funniest single-line safety warning label for every human being (103 characters) to `/output/entry.txt` — the entry for make.fun's "Warning Label for Humans: One Line, Big Laugh" bounty.
+A Python program that writes the funniest single-line safety warning label for every human being (101 characters) to `/output/entry.txt` — the entry for make.fun's "Warning Label for Humans: One Line, Big Laugh" bounty.
 
 ## Run it
 
